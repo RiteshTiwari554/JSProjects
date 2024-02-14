@@ -39,8 +39,5 @@ This is a simple weather app that allows users to check the weather conditions f
 
 ## Demo
 
-You can find a live demo of the Weather App [here](https://example.com).
+//You can find a live demo of the Weather App [here](https://example.com).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
