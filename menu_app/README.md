@@ -17,16 +17,4 @@ This repository contains the code for a menu webpage. The webpage displays a men
 2. Open the `index.html` file in a web browser to view the menu webpage.
 3. Use the filter buttons to view specific categories of menu items.
 
-## Screenshots
-![Menu Webpage](/path/to/screenshot.png)
 
-## Credits
-This project is based on a design by [Designer Name](link-to-designer-portfolio).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-Special thanks to [Name] for their contributions to this project.
-
-For any questions or issues, please feel free to [open an issue](link-to-issues) on GitHub.
