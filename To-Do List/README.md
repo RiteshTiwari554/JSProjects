@@ -17,3 +17,21 @@ This repository contains the code for a simple To-Do List web application. Users
 - CSS
 - JavaScript
 
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. Add tasks using the input box and "Add" button.
+4. Mark tasks as completed by clicking on them.
+5. Remove tasks by clicking on the cross icon next to them.
+
+## Styling
+
+- The application uses a responsive design, adapting to different screen sizes.
+- Colors and fonts are carefully chosen for readability and visual appeal.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
