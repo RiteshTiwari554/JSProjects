@@ -16,5 +16,6 @@ This repository contains the code for a menu webpage. The webpage displays a men
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser to view the menu webpage.
 3. Use the filter buttons to view specific categories of menu items.
+4. 
 
 
